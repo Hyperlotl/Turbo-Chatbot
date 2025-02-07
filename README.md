@@ -1,2 +1,2 @@
 # Turbo-Chatbot
-description goes here ig
+Code for a chatbot
