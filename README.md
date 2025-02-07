@@ -9,4 +9,4 @@ To run, copy the code from extension.js and paste it into Turbowarp. (I trust yo
 ---
 
 # How to use:
-Check the wiki
+Coming soon lol
